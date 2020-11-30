@@ -8,8 +8,10 @@ Una vez descargada la imagen procedemos a la creación del contenedor selecciona
 
 ![Imagen6](imagenes/imagen6.png)
 
-Portainer nos dara la opción de abrir la consola para administrar el contenedor le daremos a esta opción para personalizar nuesro contenedor.
+Portainer nos dara la opción de abrir la consola para administrar el contenedor le daremos a esta opción para personalizar nuestro contenedor.
 
 ![Imagen7](imagenes/imagen7.png)
 
 ![Imagen8](imagenes/imagen8.png)
+
+![Imagen9](imagenes/imagen9.png)
