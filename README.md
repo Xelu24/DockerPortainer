@@ -7,7 +7,7 @@ Docker es una herramienta que proporciona una interfaz gráfica a docker para la
 ### Indice
 1.-Instalación
 
-2.-Login
+2.-Acceso
 
 3.-Panel de Control
 
